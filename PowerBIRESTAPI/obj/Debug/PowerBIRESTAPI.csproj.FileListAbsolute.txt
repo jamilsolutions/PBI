@@ -1,0 +1,11 @@
+c:\users\jamil\documents\visual studio 2015\Projects\PowerBIRESTAPI\PowerBIRESTAPI\bin\Debug\PowerBIRESTAPI.exe.config
+c:\users\jamil\documents\visual studio 2015\Projects\PowerBIRESTAPI\PowerBIRESTAPI\obj\Debug\PowerBIRESTAPI.csprojResolveAssemblyReference.cache
+c:\users\jamil\documents\visual studio 2015\Projects\PowerBIRESTAPI\PowerBIRESTAPI\bin\Debug\PowerBIRESTAPI.exe
+c:\users\jamil\documents\visual studio 2015\Projects\PowerBIRESTAPI\PowerBIRESTAPI\bin\Debug\PowerBIRESTAPI.pdb
+c:\users\jamil\documents\visual studio 2015\Projects\PowerBIRESTAPI\PowerBIRESTAPI\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\jamil\documents\visual studio 2015\Projects\PowerBIRESTAPI\PowerBIRESTAPI\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+c:\users\jamil\documents\visual studio 2015\Projects\PowerBIRESTAPI\PowerBIRESTAPI\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\jamil\documents\visual studio 2015\Projects\PowerBIRESTAPI\PowerBIRESTAPI\obj\Debug\PowerBIRESTAPI.exe
+c:\users\jamil\documents\visual studio 2015\Projects\PowerBIRESTAPI\PowerBIRESTAPI\obj\Debug\PowerBIRESTAPI.pdb
+c:\users\jamil\documents\visual studio 2015\Projects\PowerBIRESTAPI\PowerBIRESTAPI\bin\Debug\Newtonsoft.Json.dll
+c:\users\jamil\documents\visual studio 2015\Projects\PowerBIRESTAPI\PowerBIRESTAPI\bin\Debug\Newtonsoft.Json.xml
